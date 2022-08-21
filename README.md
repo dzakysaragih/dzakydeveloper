@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello, I'm dzakydeveloper 👋🏻
 
-<!--
-**dzakydeveloper/dzakydeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
+![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
+![React](https://img.shields.io/badge/React-Beginner-blue)
+![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
 
-Here are some ideas to get you started:
+Junior Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [Syaucademy](https://www.instagram.com/syaucademy/ "Syaucademy").
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying **Software Engineering** at Universitas Siliwangi
+- 🌱 I’m currently learning **WordPress**, **Laravel** and **React**
+- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
+- 👯 I’m looking to collaborate on **Open Source** projects
+- 💬 I'm mostly active within the **Facebook**, **Instagram**, **Dev.to** and **Youtube** communities
