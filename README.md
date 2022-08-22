@@ -1,16 +1,13 @@
-# Hello, I'm dzakydeveloper 👋🏻
+Some things you should know about life:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
-![Tailwind](https://img.shields.io/badge/Tailwind-Beginner-cyan)
-![React](https://img.shields.io/badge/React-Beginner-blue)
-![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
+- [all open source maintainers (including me!) owe you nothing](https://eek25z-1234.preview.csb.app/)
+- emailing open source maintainers (including me!) directly instead of opening issues on their project is a rude thing to do
+- there's [some things that good engineers do](https://eek25z-1234.preview.csb.app/
+- drive-by negativity is literally killing open source
+- you should [stop mentoring first-time contributors to open source projects](https://eek25z-1234.preview.csb.app/
+- if you can't say something nice: maybe you shouldn't say anything at all
+- if you're automating things remember that [robots are better at pedantry and humans at empathy](https://https://eek25z-1234.preview.csb.app/
+- dogs love you in a way that your cat never will
+- you should have a system to get things done (or [you can copy mine](https://eek25z-1234.preview.csb.app/))
+- Babylon 5 is the best sci-fi TV program ever made
 
-Junior Web Designer & Web Developer located in Indonesia, Creating design & programming contents in [Syaucademy](https://www.instagram.com/syaucademy/ "Syaucademy").
-
-- 🔭 I’m currently studying **Software Engineering** at Universitas Siliwangi
-- 🌱 I’m currently learning **WordPress**, **Laravel** and **React**
-- ⚙️ Mastering: `.html`,`.css`,`.js`,`.php`
-- 👯 I’m looking to collaborate on **Open Source** projects
-- 💬 I'm mostly active within the **Facebook**, **Instagram**, **Dev.to** and **Youtube** communities
