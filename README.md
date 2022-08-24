@@ -1,3 +1,4 @@
+![Nothing](https://user-images.githubusercontent.com/69670050/186433591-e8cbddee-4e04-4717-9fc1-ab6f7c2d3cb3.jpg)
 Some things you should know about life:
 
 - [all open source maintainers (including me!) owe you nothing](https://eek25z-1234.preview.csb.app/)
